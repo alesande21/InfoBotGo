@@ -1,8 +1,9 @@
 package main
 
 import (
+	"Project/fi"
 	"fmt"
-	"github.com/alesande21/InfoBotGo/src/fi"
+
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 	"log"
 )
